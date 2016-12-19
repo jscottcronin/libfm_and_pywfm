@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Custom
+libfm_test.txt
+libfm_train.txt
+output.libfm
+data/
